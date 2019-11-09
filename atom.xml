@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alec-yumei.github.io/</id>
-    <title>从此遵前唯故里</title>
-    <updated>2019-11-09T14:58:28.678Z</updated>
+    <title>从此樽前唯故里</title>
+    <updated>2019-11-09T15:07:36.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alec-yumei.github.io/"/>
     <link rel="self" href="https://alec-yumei.github.io//atom.xml"/>
-    <subtitle>楼于屿
+    <subtitle>楼于屿 | web同名 | ins同英文名
+欢迎同好联系嗷
+mail:w1254722883@163.com
 
 画皮画骨</subtitle>
     <logo>https://alec-yumei.github.io//images/avatar.png</logo>
     <icon>https://alec-yumei.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, 从此遵前唯故里</rights>
+    <rights>All rights reserved 2019, 从此樽前唯故里</rights>
     <entry>
         <title type="html"><![CDATA[《白蛇：缘起》影评]]></title>
         <id>https://alec-yumei.github.io//post/lesslessbai-she-yuan-qi-greatergreater-ying-ping</id>
